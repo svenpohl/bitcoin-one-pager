@@ -4,7 +4,6 @@ Aktuelle Version 1.2. Ein Hilfsmittel um No-Coinern die einzigartigen Eigenschaf
 
 Hinweis: Der QR-Code für den Private-Key der Demo-Paperwallet ist ein Weblink zu diesem Repository.
 
-![alt text](https://github.com/svenpohl/bitcoin-one-pager/blob/main/bitcoin-one-pager.png?raw=true)
 
 
  
