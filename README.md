@@ -6,5 +6,7 @@ Hinweis: Der QR-Code für den Private-Key der Demo-Paperwallet ist ein Weblink z
 
 ![alt text](https://github.com/svenpohl/bitcoin-one-pager/blob/main/bitcoin-one-pager.png?raw=true)
 
+# Bitcoin One-Pager english version:
+![alt text](https://github.com/svenpohl/bitcoin-one-pager/blob/main/bitcoin-one-pager-en.png?raw=true)
 
  
